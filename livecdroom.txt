@@ -1,0 +1,2 @@
+simosnet.com##table:last-child > tbody > tr:first-child > td
+simosnet.com##table:last-child > tbody > tr:nth-child(2) > td > a:last-child > img
