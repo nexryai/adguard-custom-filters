@@ -8,6 +8,10 @@ AdGuard用カスタムフィルター
 twitterのトレンドをブロック <br>
 `https://raw.githubusercontent.com/nexryai/adguard-custom-filters/main/trend_blocker.txt`
 
+### Deepl
+Deeplの翻訳ページをGoogle翻訳のようにシンプルにします <br>
+`https://raw.githubusercontent.com/nexryai/adguard-custom-filters/main/deepl.txt`
+
 ### livecdroom
 LiveCDの部屋のlinuxと無関係なバナーコンテンツをブロック <br>
 `https://raw.githubusercontent.com/nexryai/adguard-custom-filters/main/livecdroom.txt`
