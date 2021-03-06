@@ -1,0 +1,19 @@
+yahoo.co.jp###Masthead > div._2TzkLph0QyL9hAv5c53WeY:last-child > ul._6iDyy-CUks251J9k1epBP._2wHHN0Lb5Djgf3lJuvl0lo > li._3gsf81y-6_ZDi-j-tMaVHe:first-child > a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt > p.oLvk9L5Yk-9JOuzi-OHW5
+yahoo.co.jp###Masthead > div._2TzkLph0QyL9hAv5c53WeY:last-child > ul._6iDyy-CUks251J9k1epBP._2wHHN0Lb5Djgf3lJuvl0lo > li._3gsf81y-6_ZDi-j-tMaVHe:nth-child(2) > a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt > p.oLvk9L5Yk-9JOuzi-OHW5
+yahoo.co.jp###Masthead > div._2TzkLph0QyL9hAv5c53WeY:last-child > ul._6iDyy-CUks251J9k1epBP._2wHHN0Lb5Djgf3lJuvl0lo > li._3gsf81y-6_ZDi-j-tMaVHe:last-child > a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt > p.oLvk9L5Yk-9JOuzi-OHW5
+yahoo.co.jp###ssp_ydn_82399_269466_ad_frame
+yahoo.co.jp###Perorin > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1
+yahoo.co.jp###Masthead > div._15h66qPnVy4iQzPepgAaiY:nth-child(2)
+yahoo.co.jp###Masthead > div._2TzkLph0QyL9hAv5c53WeY:last-child
+yahoo.co.jp###ContentWrapper > main:nth-child(3) > div._1yfI3F_-IzSodzFZn3w_Fl:first-child
+yahoo.co.jp###Stream > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+yahoo.co.jp###Service > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+yahoo.co.jp###Scoreboard > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+yahoo.co.jp###Realtime > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+yahoo.co.jp###Covid19Banner > a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt > span.rStpk9W4eUO5IMVhnJylj
+yahoo.co.jp###TopLink > ul.QoCp7KDEt29FbN5hCjsCx:last-child
+yahoo.co.jp###eyebrow
+yahoo.co.jp###ssp_ydn_82399_269466_ad_frame
+yahoo.co.jp###Footer
+yahoo.co.jp###ContentWrapper > header._1pYo2K6TchJu9RCTe7V7w2:first-child > section._1o9PYyvuVafb5hd9eJ9rYX:nth-child(4) > div._1f9dgjwXCsoV3gv3CR4ed0 > ul._1CYhoJYsAsnHPIGbcii0Z5:nth-child(3)
+
