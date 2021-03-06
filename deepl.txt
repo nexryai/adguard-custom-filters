@@ -1,0 +1,5 @@
+deepl.com###lmt_pro_ad_container > div.dl_pro__banner--background.dl_top_element--wide > div.dl_pro__banner--header > div.dl_pro__banner--featureWrapper:last-child > div.dl_pro__banner--card.dl_pro__banner--card_elevated
+deepl.com###lmt_quotes_article
+deepl.com##header.dl_header.dl_header--sticky:first-child > nav.dl_header_menu_v2.dl_top_element--wide > div.dl_header_menu_v2__items:last-child > div.dl_header_menu_v2__links:first-child
+deepl.com##header.dl_header.dl_header--sticky:first-child > nav.dl_header_menu_v2.dl_top_element--wide > div.dl_header_menu_v2__items:last-child > div.dl_header_menu_v2__buttons:last-child > div.dl_header_menu_v2__login_button:first-child > button.dl_header_menu_v2__buttons__item
+deepl.com##header.dl_header.dl_header--sticky:first-child > nav.dl_header_menu_v2.dl_top_element--wide > div.dl_header_menu_v2__items:last-child
