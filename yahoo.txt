@@ -16,4 +16,6 @@ yahoo.co.jp###eyebrow
 yahoo.co.jp###ssp_ydn_82399_269466_ad_frame
 yahoo.co.jp###Footer
 yahoo.co.jp###ContentWrapper > header._1pYo2K6TchJu9RCTe7V7w2:first-child > section._1o9PYyvuVafb5hd9eJ9rYX:nth-child(4) > div._1f9dgjwXCsoV3gv3CR4ed0 > ul._1CYhoJYsAsnHPIGbcii0Z5:nth-child(3)
-
+yahoo.co.jp###ContentWrapper > main:nth-child(3) > div._1wMKcRvzVuLcTT_cLoka8h:last-child > article._3Ehituw3p_tjwuQ6KpjDWE:nth-child(4) > div._1nJ39BFpWaPCIWutB-olO8._171Q0OxQF2Vk3J_CxMxajb.-DmdTfmK9dpsdI1vggc-z > div._3DayOTWaRJVwUMySMNY4MZ > div._3sWLgEua45mRS1wa27goG-:nth-child(3) > section > div._1nJ39BFpWaPCIWutB-olO8.-DmdTfmK9dpsdI1vggc-z
+yahoo.co.jp###Login
+yahoo.co.jp###Today > div._1nJ39BFpWaPCIWutB-olO8.-DmdTfmK9dpsdI1vggc-z > article._2fX_3vdeY8WLratab_ploY:last-child > a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt.rapidnofollow:first-child > div._3ENWZejXZd0Cpi58_B5sQ2
