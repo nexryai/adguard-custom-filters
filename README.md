@@ -9,5 +9,5 @@ twitterのトレンドをブロック <br>
 `https://raw.githubusercontent.com/nexryai/adguard-custom-filters/main/trend_blocker.txt`
 
 ### livecdroom
-LiveCDの部屋の不必要なコンテンツをブロック<br>
+LiveCDの部屋のlinuxと無関係なバナーコンテンツをブロック<br>
 `https://raw.githubusercontent.com/nexryai/adguard-custom-filters/main/livecdroom.txt`
